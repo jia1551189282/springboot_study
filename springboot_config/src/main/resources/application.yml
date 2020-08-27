@@ -1,0 +1,19 @@
+server:
+  port: 8088
+
+person:
+  lastName: 玊玊
+  age:  22
+  boss: false
+  birth: 1999/06/05
+  map: {name: 佳佳,boss: true}
+  dogs:
+    -   name: 小狗1
+        age: 2
+    -   name: 小狗2
+        age: 3
+    -   name: 小狗3
+        age: 4
+  dog:
+    name: 最爱的小狗
+    age: 8
